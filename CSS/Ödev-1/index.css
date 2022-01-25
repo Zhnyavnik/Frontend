@@ -1,0 +1,33 @@
+.text-color{
+color: red;
+font-size: 40px;
+}
+.container{
+    text-align: center;
+}
+.text2-color{
+    color:purple;
+    font-size: 30px;
+ }
+.text3-color{
+    color: rgba(255, 204, 0, 0.953);
+}
+
+.inside {
+    list-style-position: inside;
+    list-style-type: square;
+    text-align: auto;
+  }
+  
+  .outside {
+    list-style-position: outside;
+    list-style-type: circle;
+  }
+  
+  .inside-img {
+    list-style-position: inside;
+    list-style-image: url("starsolid.gif");
+  }
+  .menu{
+    margin-left: 10px;
+  }
